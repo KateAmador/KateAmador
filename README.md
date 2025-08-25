@@ -69,7 +69,6 @@ Aplicación web escalable para gestión de información.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KateAmador&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KateAmador&layout=compact&theme=tokyonight" height="165"/>
 </p>  
 
