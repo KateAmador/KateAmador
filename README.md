@@ -41,6 +41,7 @@ Plataforma de **e-commerce para gestión de eventos deportivos**.
 - Configuro **entorno seguro** con Nginx y certificados SSL/TLS.  
 - Implemento **backups automáticos** en AWS S3 y procesos en segundo plano con Celery + Redis.  
 - **Impacto:** incremento de productividad en la organización de eventos y optimización de tiempos de inscripción.  
+[![Visitar Respira.run](https://img.shields.io/badge/🌐_Visitar-Respira.run-2ea44f?style=for-the-badge)](https://respira.run)
 
 ---
 
@@ -85,10 +86,3 @@ Práctica profesional como **Técnico en Sistemas Informáticos**.
 📧 **Correo:** kateamador13@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/kamave](https://www.linkedin.com/in/kamave/)  
 """
-
-# Guardamos en archivo .md
-file_path_v2 = "/mnt/data/README_KateAmador_v2.md"
-with open(file_path_v2, "w", encoding="utf-8") as f:
-    f.write(readme_content_v2)
-
-file_path_v2
