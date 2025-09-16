@@ -1,6 +1,4 @@
-# Guardar el README mejorado en formato Markdown (.md)
-
-readme_content = """# 👋 Hola, soy Katherin Amador  
+# 👋 Hola, soy Katherin Amador  
 
 💻 **Ingeniera de Sistemas | Desarrolladora Full-Stack**  
 📍 Colombia  
