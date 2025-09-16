@@ -8,7 +8,7 @@
 ## 🧑‍💼 Sobre mí  
 Soy desarrolladora **full-stack** con experiencia en **software empresarial y plataformas de e-commerce**. He trabajado en proyectos donde desarrollé módulos críticos (informes, estadísticas, SARLAFT), integré pagos seguros y gestioné despliegues en entornos de producción.  
 
-Me apasiona crear soluciones que generen **optimización de tiempo, incremento de productividad y satisfacción de clientes**, con un enfoque en **transformación digital** y **seguridad de la información**.  
+Me interesa crear soluciones que generen **optimización de tiempo, incremento de productividad y satisfacción de clientes**, con un enfoque en **transformación digital** y **seguridad de la información**.  
 
 ---
 
@@ -47,8 +47,16 @@ Plataforma de **e-commerce para gestión de eventos deportivos**.
 ### 🔹 Fénix (2023 – Oncloud)  
 Software empresarial escalable para gestión de información.  
 - Desarrollé integralmente los módulos de **informes, estadísticas y SARLAFT** (backend con Django y frontend con Vue.js).  
-- Optimicé el rendimiento de la aplicación con **Redis** y consultas en **PostgreSQL**.  
-- Contribuí en un equipo ágil, participando en soluciones que impulsaron la **transformación digital** de los clientes.  
+- Optimicé rendimiento con **Redis** y consultas en **PostgreSQL**, reduciendo tiempos de respuesta.  
+- Colaboré en un equipo ágil, entregando soluciones que contribuyeron a la **transformación digital** y la **satisfacción de clientes**.  
+
+---
+
+### 💻 Compubuga (2023 – Práctica Técnica)  
+Práctica profesional como **Técnico en Sistemas Informáticos**.  
+- Realicé **mantenimiento preventivo y correctivo** de equipos de cómputo, asegurando continuidad operativa y seguridad de la información.  
+- Brindé soporte técnico a docentes y administrativos, **optimizando tiempos de respuesta**.  
+- Participé en el **desarrollo de aplicaciones web** con Django y Vue.js, fortaleciendo mis habilidades en backend y frontend.  
 
 ---
 
@@ -79,8 +87,8 @@ Software empresarial escalable para gestión de información.
 """
 
 # Guardamos en archivo .md
-file_path = "/mnt/data/README_KateAmador.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
+file_path_v2 = "/mnt/data/README_KateAmador_v2.md"
+with open(file_path_v2, "w", encoding="utf-8") as f:
+    f.write(readme_content_v2)
 
-file_path
+file_path_v2
