@@ -85,4 +85,3 @@ Práctica profesional como **Técnico en Sistemas Informáticos**.
 ## 📫 Contacto  
 📧 **Correo:** kateamador13@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/kamave](https://www.linkedin.com/in/kamave/)  
-"""
